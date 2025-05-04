@@ -1,2 +1,1 @@
-# Big-Data-Project
-This project is part of the master's level Big Data course in University of Oulu, Finland.
+# A Study on GDELT Media Representation of the Palestine-Israel Conflict

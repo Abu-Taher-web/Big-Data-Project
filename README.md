@@ -1,6 +1,6 @@
 <div align="center">  
   <h1 align="center">  
-    <img src="./ICON.jpg" alt="App Icon" width="100">  
+    <img src="./global_coverage.gif" alt="App Icon" width="700">  
     <br>A Study on GDELT Media Representation of the Palestine-Israel Conflict
   </h1>  
 
